@@ -4,7 +4,7 @@
 dummy function not real surface3d
 }
 \description{
-I supress rgl
+I suppress rgl
 }
 \usage{
 surface3d(...)
