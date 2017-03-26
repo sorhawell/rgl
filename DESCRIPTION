@@ -1,0 +1,9 @@
+Package: rgl
+Type: Package
+Title: Dummy pretending to be rgl
+Version: 0.1
+Date: 2017-03-26
+Author: Soren Welling <sorhawell@gmail.com>
+Maintainer: Soren Welling <sorhawell@gmail.com>
+Description: This package pretends to be rgl
+License: GPL-2
